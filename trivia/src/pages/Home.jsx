@@ -16,9 +16,9 @@ export default function Home() {
       <p>Test your knowledge on the Kenya Premier League seasons.</p>
       
       <div className="feature-list">
-        <div className="feature-item">⚽ KPL Trivia seasons </div>
-        <div className="feature-item">⚡ Dynamic Speed Bonus Scoring</div>
-        <div className="feature-item">🔥 Streak Tracking & Live Analytics</div>
+        <div className="feature-item">⚽ KPL quizes seasons </div>
+        <div className="feature-item">⚡ Speed Bonus Scoring</div>
+        <div className="feature-item">🔥 Streak Tracking</div>
       </div>
 
       <motion.button 
