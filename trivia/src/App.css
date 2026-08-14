@@ -1,16 +1,16 @@
 :root {
   --bg-primary: #0f172a;
-  --card-bg: #1e293b;
-  --accent-color: #38bdf8;
+  --card-bg: #3f7cdf;
+  --accent-color: #f5f3f3;
   --correct-color: #22c55e;
   --incorrect-color: #ef4444;
   --text-main: #f8fafc;
-  --text-muted: #94a3b8;
+  --text-muted: #fcfbfe;
 }
 
 body {
   margin: 0;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AucGm2x49wwJuSmVG69OkMEl87oc2znawX2I_AekgQ&s=10');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Zb9SjpENHqhXBxj5-ZvJaA3L5UY4GDgKEcgcS9FgUQ&s=10');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
